@@ -4255,9 +4255,9 @@ DIJAGNOSTIKA: Akter u PPO rundi 2 nema potvrđen gradijentni uslov.
 DIJAGNOSTIKA: Odvojeni test ne potvrđuje poboljšanje u odnosu na referentno Qiskit kolo.
 
 ZAVRŠNI NEXT REZULTATI
-loto7_4710_k86.csv | NEXT: 1 2 5 33 34 35 36 | TEST POBOLJŠANJE NIJE POTVRĐENO
-loto7_4710_k86_loto_2977.csv | NEXT: 16 22 33 34 35 38 39 | TEST POBOLJŠANJE NIJE POTVRĐENO
-loto7_4710_k86_loto_plus_1733.csv | NEXT: 1 2 5 6 7 26 34 | TEST POBOLJŠANJE NIJE POTVRĐENO
+loto7_4710_k86.csv | NEXT: 1 x 5 y 34 z 36 | TEST POBOLJŠANJE NIJE POTVRĐENO
+loto7_4710_k86_loto_2977.csv | NEXT: 16 x 33 y 35 z 39 | TEST POBOLJŠANJE NIJE POTVRĐENO
+loto7_4710_k86_loto_plus_1733.csv | NEXT: 1 x 5 y 7 z 34 | TEST POBOLJŠANJE NIJE POTVRĐENO
 """
 
 
